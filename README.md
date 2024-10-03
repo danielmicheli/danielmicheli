@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<h3 align="center">A passionate developer from Italy</h3>
 
 - 👨‍💻 All of my projects are available at <a href="https://danielmicheli.github.io/" target="blank">danielmicheli </a>
 - 📫 How to reach me **danielmicheli@outlook.it**
